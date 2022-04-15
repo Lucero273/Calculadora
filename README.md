@@ -1,3 +1,3 @@
 # Calculadora simple
-- 2 valores (inputs)
-- 4 funciones (" +, -, *, / ")
+- Ingreso de 2 valores (inputs)
+- 4 funciones principales(" +, -, *, / ")
